@@ -1,0 +1,13 @@
+*, :after, :before{
+    box-sizing: border-box;
+}
+body{
+    font: 16px -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 400;
+}
+.main-holder{
+    display: flex; justify-content: center;
+}
+.sub-holder{
+    max-width: 600px
+}
